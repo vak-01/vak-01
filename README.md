@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning Django Rest Framework
 - 👯 I’m looking to collaborate on React projects
 - 💬 Ask me about programming languages
-- ⚡ Fun fact: I am a python programmer who can C
-
 
 
 ## 💻 Tech Stack
