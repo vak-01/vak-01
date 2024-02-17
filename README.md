@@ -1,9 +1,11 @@
 # Hi there 👋
-
 - 🔭 I’m currently working on my project [Study Copilot](https://github.com/vak-01/study-companion)
 - 🌱 I’m currently learning Django Rest Framework
 - 👯 I’m looking to collaborate on React projects
 - 💬 Ask me about programming languages
+
+<img src="https://github-readme-stats.vercel.app/api?username=vak-01&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vak-01&hide=css&layout=donut">
 
 
 ## 💻 Tech Stack
@@ -15,7 +17,6 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) <br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) <br>
 ![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
 
 ## Favourite dev quote
 
